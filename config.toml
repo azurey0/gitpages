@@ -27,7 +27,7 @@ images = ["images/site-feature-image.png"]
 
 ## Math settings
 [params.math]
-enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+enable = true  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
 use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
@@ -72,3 +72,4 @@ url = "mailto:zhangr235@mail2.sysu.edu.cn"
   weight = 300
   identifier = "about"
   url = "/about/"
+
